@@ -25,3 +25,5 @@ udc.yahoo.com
 ck.ads.oppomobile.com
 samsung-com.112.2o7.net
 tools.mouseflow.com
+googleadservices.com
+www.googleadservices.com
