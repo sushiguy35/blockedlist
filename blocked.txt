@@ -24,3 +24,4 @@ metrika.yandex.ru
 udc.yahoo.com
 ck.ads.oppomobile.com
 samsung-com.112.2o7.net
+tools.mouseflow.com
